@@ -1,4 +1,4 @@
-## This simple application display weather data about weather in Moscow from JSON from www.openweathermap.org.
+## This simple application shows weather forecast in Moscow from JSON from www.openweathermap.org.
 
 <img src="https://github.com/ko1om8o/Moscow-Werather/blob/master/raw/MoscowWeatherReadmePicture.png" align="center">
 
